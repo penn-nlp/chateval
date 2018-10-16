@@ -2,6 +2,11 @@
 A Python package for running automated evaluations on generated natural language responses. Used
 in production by the [ChatEval platform](https://chateval.org).
 
+## Dependencies
+- `python3`
+- `numpy`
+- `nltk`
+
 ## Usage
 1. Run `pip install chateval` to install the package.
 2. Import the package using `from chateval.metrics import utils`.
