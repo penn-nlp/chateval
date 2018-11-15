@@ -28,7 +28,7 @@ class Embedding:
         return word in self.vectors
     
     def dim(self):
-return self.vectors.dim
+        return self.vectors.dim
 ```
 
 ## License
